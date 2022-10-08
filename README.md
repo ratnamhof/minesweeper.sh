@@ -1,7 +1,7 @@
 
 # Intro
 
-Minesweeper game implemented in bash. This is a fork of the original version created by [Feherke](#https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh), with the changes as described below.
+Minesweeper game implemented in bash. This is a fork of the original version created by [Feherke](https://github.com/feherke/Bash-script/blob/master/minesweeper/minesweeper.sh), with the changes as described below.
 
 # Changes
 
